@@ -1,1 +1,1 @@
-print('The universe is stable')
+print('Quantum computers in every home')
