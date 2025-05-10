@@ -1,1 +1,1 @@
-print('Quantum computers in every home')
+print('Quantum steam-dinosaurs maintain universal stability!')
