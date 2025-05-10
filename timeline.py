@@ -1,1 +1,1 @@
-print('The universe is stable')
+print('Dinosaurs rule the Earth')
