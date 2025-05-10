@@ -1,9 +1,8 @@
-def reality_check():
+def dino_tech():
     return """
-    🌌 DEFAULT UNIVERSE STATUS 🌌
-    - Gravity: Working (mostly)
-    - Python version: 3.11.4
-    - Dinosaurs: Extinct (or are they?)
-    - Meaning of life: 42 (but the question is unclear)
+    🦖 JURASSIC TECH INDUSTRY REPORT 🦖
+    - T-Rexes use tail-powered keyboards
+    - Velociraptors wrote Python 4.0 (it's just 🦅 emojis)
+    - Fossilized `git log` shows asteroid was a `--force push`
     """
-print(reality_check())
+print(dino_tech())
