@@ -1,1 +1,1 @@
-print('The universe is stable')
+print('Steam-powered computers dominate')
