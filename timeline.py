@@ -1,1 +1,1 @@
-print('Dinosaurs rule the Earth')
+print("The universe runs on steam-powered stability!")
