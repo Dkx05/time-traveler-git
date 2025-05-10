@@ -1,12 +1,9 @@
-<<<<<<< HEAD
-def ai_standup():
+def reality_check():
     return """
-    🤖 DAILY SCRUM FROM 3025 🤖
-    - AI Product Owner demands more training data
-    - Quantum CI/CD pipeline: 100% flaky tests
-    - Humans now just label datasets for robot memes
+    🌌 DEFAULT UNIVERSE STATUS 🌌
+    - Gravity: Working (mostly)
+    - Python version: 3.11.4
+    - Dinosaurs: Extinct (or are they?)
+    - Meaning of life: 42 (but the question is unclear)
     """
-print(ai_standup())
-=======
-print('Quantum steam-dinosaurs maintain universal stability!')
->>>>>>> bcbbe64a07ac4a911a253e706cf3aa1bb2683e73
+print(reality_check())
